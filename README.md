@@ -1,191 +1,57 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:312e81,100:4f46e5&height=200&section=header&text=MEHDI%20ABDI&fontSize=52&fontColor=ffffff&fontAlignY=38&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MEHDI%20ABDI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20JavaScript&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
 
 <br/>
 
-# Frontend Developer
-
-### React · Next.js · JavaScript
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&duration=2800&pause=900&color=6366F1&center=true&vCenter=true&width=620&lines=Building+modern+web+experiences;Turning+design+into+clean+code;React+%2B+Next.js+%2B+JavaScript;UI%2FUX+%7C+Figma+%7C+Adobe+XD" />
-
-<br/>
-
-<a href="https://github.com/Mr-MehdiAbdi">GitHub</a>
-  ·   <a href="YOUR_LINKEDIN_URL">LinkedIn</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## ✦ ABOUT ME
-
-</div>
-
-I’m **Mehdi Abdi**, a Frontend Developer focused on building modern, responsive and intuitive web experiences.
-
-I enjoy the space where **design meets development** — taking an idea from **Figma or Adobe XD** and turning it into a polished, functional interface with React and modern JavaScript.
-
-I care about clean code, thoughtful UI and the small details that make an interface feel right.
-
-<br/>
-
-<div align="center">
-
-**Design → Development → Experience**
-
-</div>
-
----
-
-<div align="center">
-
-## ⚡ WHAT I WORK WITH
-
-<br/>
-
-<table>
-<tr>
-<td align="center" width="33%">
-
-### FRONTEND
-
-React
-Next.js
-JavaScript
-HTML
-CSS
-Tailwind CSS
-
-</td>
-
-<td align="center" width="33%">
-
-### UI / UX
-
-Figma
-Adobe XD
-Responsive Design
-UI Design
-User Experience
-
-</td>
-
-<td align="center" width="33%">
-
-### WORKFLOW
-
-Git
-GitHub
-VS Code
-npm
-REST APIs
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 SELECTED WORK
-
-</div>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### `01` · React Auth Login
-
-A modern authentication interface built with React, focused on clean UI and a straightforward user experience.
-
-**React · JavaScript · CSS**
-
-→ **[View project](https://github.com/Mr-MehdiAbdi/react-auth-login)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### `02` · Clash Card Slider
-
-An interactive card-slider experience built with React and Vite, with a responsive visual interface.
-
-**React · Vite · CSS**
-
-→ **[View project](https://github.com/Mr-MehdiAbdi/react-clash-card-slider)**
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### `03` · Accordion Menu
-
-A lightweight interactive UI component designed around simplicity, responsiveness and usability.
-
-**React · Vite · CSS**
-
-→ **[View project](https://github.com/Mr-MehdiAbdi/Accordion-Menu)**
-
-</td>
-
-<td width="50%" valign="top">
-
-### `04` · More on GitHub
-
-A growing collection of frontend experiments, components and projects.
-
-**Explore · Learn · Build · Improve**
-
-→ **[Explore repositories](https://github.com/Mr-MehdiAbdi?tab=repositories)**
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 🎨 FROM DESIGN TO CODE
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=figma" height="48"/>
-
-    →    
-
-<img src="https://skillicons.dev/icons?i=react,nextjs" height="48"/>
-
-    →    
-
-<img src="https://skillicons.dev/icons?i=javascript,html,css" height="48"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;UI%2FUX+Enthusiast;Turning+Design+Into+Code;Building+Modern+Web+Experiences" />
 
 <br/><br/>
 
-**Figma / Adobe XD**
-*Visual concept*
+<a href="https://github.com/Mr-MehdiAbdi">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-↓
+&nbsp;
 
-**React / Next.js**
-*Component & interaction*
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
-↓
+</div>
 
-**Responsive Web Experience**
-*Final product*
+<br/>
+
+---
+
+<div align="center">
+
+## 👋 HELLO, I'M MEHDI
+
+</div>
+
+I'm a **Frontend Developer** passionate about creating modern, responsive and interactive web experiences.
+
+I enjoy turning ideas and visual concepts into real products — combining **clean code, thoughtful UI and a strong focus on user experience**.
+
+My interests live at the intersection of:
+
+**Development × Design × User Experience**
+
+---
+
+<div align="center">
+
+## ⚡ WHAT I DO
+
+<br/>
+
+| 💻 FRONTEND | 🎨 UI / UX | 🧩 DEVELOPMENT |
+|:---:|:---:|:---:|
+| React | Figma | Clean Code |
+| Next.js | Adobe XD | Reusable Components |
+| JavaScript | UI Design | Responsive Design |
+| HTML / CSS | UX | Modern Web |
 
 </div>
 
@@ -193,7 +59,7 @@ A growing collection of frontend experiments, components and projects.
 
 <div align="center">
 
-## 🧰 TOOLBOX
+## 🛠️ TECH STACK
 
 <br/>
 
@@ -205,19 +71,117 @@ A growing collection of frontend experiments, components and projects.
 
 <div align="center">
 
-## 📈 GITHUB
+## 🎨 DESIGN → CODE
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-MehdiAbdi&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=64748B&rank_icon=github" height="165"/>
+### Figma / Adobe XD
 
-  
+**Design**
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-MehdiAbdi&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=64748B" height="165"/>
+↓
+
+### React / Next.js
+
+**Development**
+
+↓
+
+### Responsive Web Experience
+
+**Result**
+
+<br/>
+
+<sub>
+I enjoy transforming visual ideas into clean, functional and interactive interfaces.
+</sub>
+
+</div>
+
+---
+
+<div align="center">
+
+## 🚀 SELECTED PROJECTS
+
+</div>
+
+<br/>
+
+### ⚛️ React Auth Login
+
+A modern authentication project focused on creating a clean and practical user interface.
+
+**React · JavaScript · CSS**
+
+→ [View Repository](https://github.com/Mr-MehdiAbdi/react-auth-login)
+
+---
+
+### 🎴 React Clash Card Slider
+
+An interactive card slider built with React and Vite, focused on responsive interaction and visual presentation.
+
+**React · Vite · CSS**
+
+→ [View Repository](https://github.com/Mr-MehdiAbdi/react-clash-card-slider)
+
+---
+
+### ☰ Accordion Menu
+
+A lightweight and responsive interactive UI component.
+
+**React · Vite · CSS**
+
+→ [View Repository](https://github.com/Mr-MehdiAbdi/Accordion-Menu)
+
+---
+
+<div align="center">
+
+<a href="https://github.com/Mr-MehdiAbdi?tab=repositories">
+
+<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+## 📈 GITHUB ACTIVITY
+
+<br/>
+
+<img
+src="https://github-readme-stats.vercel.app/api?username=Mr-MehdiAbdi&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=64748B&rank_icon=github&include_all_commits=true"
+height="180"
+/>
+
+&nbsp;&nbsp;&nbsp;
+
+<img
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-MehdiAbdi&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=64748B&langs_count=6"
+height="180"
+/>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=Mr-MehdiAbdi&hide_border=true&background=00000000&ring=6366F1&fire=818CF8&currStreakLabel=6366F1&sideLabels=64748B&dates=94A3B8" />
+<img
+src="https://streak-stats.demolab.com?user=Mr-MehdiAbdi&hide_border=true&background=00000000&ring=6366F1&fire=818CF8&currStreakLabel=6366F1&sideLabels=64748B&dates=94A3B8"
+height="180"
+/>
+
+<br/><br/>
+
+<img
+src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-MehdiAbdi&bg_color=00000000&color=64748B&line=6366F1&point=818CF8&area=true&hide_border=true"
+width="95%"
+/>
 
 </div>
 
@@ -225,33 +189,70 @@ A growing collection of frontend experiments, components and projects.
 
 <div align="center">
 
-## CURRENTLY
-
-**Building** → React & Next.js projects
-**Exploring** → UI / UX & modern frontend patterns
-**Improving** → Clean code & frontend architecture
-**Learning** → Something new every day
-
-</div>
+## 🧭 CURRENTLY
 
 <br/>
 
+**Building**  
+React & Next.js projects
+
+<br/>
+
+**Exploring**  
+Modern UI / UX
+
+<br/>
+
+**Improving**  
+Frontend architecture & clean code
+
+<br/>
+
+**Learning**  
+New technologies and better ways to build
+
+</div>
+
 ---
 
 <div align="center">
 
-### `BUILD · DESIGN · ITERATE`
+## ✦ MY PHILOSOPHY
+
+<br/>
+
+### Build with purpose.
+### Design with intention.
+### Code with clarity.
+
+</div>
+
+---
+
+<br/>
+
+<div align="center">
+
+## 🤝 LET'S CONNECT
 
 <br/>
 
 <a href="https://github.com/Mr-MehdiAbdi">
+  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/EXPLORE_MY_GITHUB-111827?style=for-the-badge&logo=github&logoColor=white"/>
+&nbsp;
 
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4f46e5,50:312e81,100:0f172a&height=110&section=footer&animation=fadeIn" width="100%"/>
+<sub>Thanks for visiting my profile. 👋</sub>
+
+<br/><br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6366F1,50:312E81,100:111827&animation=fadeIn" width="100%"/>
 
 </div>
