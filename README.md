@@ -1,69 +1,62 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MEHDI%20ABDI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20JavaScript&descAlignY=62&descSize=17&animation=fadeIn&color=0:0F172A,50:1D4ED8,100:3B82F6" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=MEHDI%20ABDI&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20JavaScript&descAlignY=62&animation=fadeIn&color=0:0F172A,50:1D4ED8,100:3B82F6" width="100%"/>
 
-<br/>
+<br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;UI%2FUX+Enthusiast;Turning+Design+Into+Code;Building+Modern+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1200&color=2563EB&center=true&vCenter=true&width=600&lines=Building+modern+web+experiences;Turning+design+into+clean+code;React+%7C+Next.js+%7C+JavaScript" />
 
-<br/><br/>
+<br><br>
 
-<a href="https://github.com/Mr-MehdiAbdi">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-</div>
-
-<br/>
-
----
-
-<div align="center">
-
-## 👋 HELLO, I'M MEHDI
-
-</div>
-
-I'm a **Frontend Developer** focused on building modern, responsive and interactive web experiences.
-
-I enjoy turning ideas and visual concepts into real products — combining **clean code, thoughtful UI and a strong focus on user experience**.
-
-My interests live at the intersection of:
-
-**Development · Design · User Experience**
-
----
-
-<div align="center">
-
-## ⚡ WHAT I DO
-
-<br/>
-
-| 💻 FRONTEND | 🎨 UI / UX | 🧩 DEVELOPMENT |
-|:---:|:---:|:---:|
-| React | Figma | Clean Code |
-| Next.js | Adobe XD | Reusable Components |
-| JavaScript | UI Design | Responsive Design |
-| HTML / CSS | UX | Modern Web |
+<a href="https://github.com/Mr-MehdiAbdi">GitHub</a>
+&nbsp; · &nbsp;
+<a href="YOUR_LINKEDIN_URL">LinkedIn</a>
 
 </div>
 
 ---
 
+## 👋 About Me
+
+Frontend Developer passionate about **modern web development, UI/UX and clean code**.
+
+I enjoy turning designs from **Figma & Adobe XD** into responsive and interactive web experiences.
+
+---
+
+## 🛠️ Stack
+
 <div align="center">
 
-## 🛠️ TECH STACK
+<img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,figma,git,github,vscode" />
 
-<br/>
+</div>
 
-<img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind,figma,git,github,vscode,npm" />
+---
+
+## 🚀 Projects
+
+**React Auth Login**  
+Authentication interface built with React.  
+→ [Repository](https://github.com/Mr-MehdiAbdi/react-auth-login)
+
+**Clash Card Slider**  
+Interactive responsive card slider.  
+→ [Repository](https://github.com/Mr-MehdiAbdi/react-clash-card-slider)
+
+**Accordion Menu**  
+Clean interactive React component.  
+→ [Repository](https://github.com/Mr-MehdiAbdi/Accordion-Menu)
+
+---
+
+<div align="center">
+
+## 📈 GitHub Activity
+
+<br>
+
+<img src="https://github-readme-stats.vercel.app/api?username=Mr-MehdiAbdi&show_icons=true&hide_border=true&bg_color=00000000&title_color=2563EB&icon_color=2563EB&text_color=64748B&rank_icon=github" height="165"/>
 
 </div>
 
@@ -71,136 +64,12 @@ My interests live at the intersection of:
 
 <div align="center">
 
-## 🎨 DESIGN → CODE
+### Let's build something great.
 
-<br/>
+**GitHub · LinkedIn**
 
-### Figma · Adobe XD
+<br><br>
 
-**Design**
-
-↓
-
-### React · Next.js
-
-**Development**
-
-↓
-
-### Responsive Web Experience
-
-**Result**
-
-<br/>
-
-<sub>
-Turning visual concepts into clean, functional and interactive interfaces.
-</sub>
-
-</div>
-
----
-
-## 🚀 SELECTED PROJECTS
-
-### ⚛️ React Auth Login
-
-A modern authentication project focused on a clean and practical user interface.
-
-**React · JavaScript · CSS**
-
-→ [View Repository](https://github.com/Mr-MehdiAbdi/react-auth-login)
-
----
-
-### 🎴 React Clash Card Slider
-
-An interactive card slider built with React and Vite, focused on responsive interaction and visual presentation.
-
-**React · Vite · CSS**
-
-→ [View Repository](https://github.com/Mr-MehdiAbdi/react-clash-card-slider)
-
----
-
-### ☰ Accordion Menu
-
-A lightweight and responsive interactive UI component.
-
-**React · Vite · CSS**
-
-→ [View Repository](https://github.com/Mr-MehdiAbdi/Accordion-Menu)
-
----
-
-<div align="center">
-
-<a href="https://github.com/Mr-MehdiAbdi?tab=repositories">
-
-<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
-
-</a>
-
-</div>
-
----
-
-<div align="center">
-
-## 🧭 CURRENTLY
-
-<br/>
-
-🔵 **Building** — React & Next.js projects
-
-🔵 **Exploring** — Modern UI / UX
-
-🔵 **Improving** — Frontend architecture & clean code
-
-🔵 **Learning** — New technologies and better ways to build
-
-</div>
-
----
-
-<div align="center">
-
-## ✦ MY PHILOSOPHY
-
-<br/>
-
-### Build with purpose.
-### Design with intention.
-### Code with clarity.
-
-</div>
-
----
-
-<br/>
-
-<div align="center">
-
-## 🤝 LET'S CONNECT
-
-<br/>
-
-<a href="https://github.com/Mr-MehdiAbdi">
-  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<sub>Thanks for visiting my profile. 👋</sub>
-
-<br/><br/>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3B82F6,50:1D4ED8,100:0F172A&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=90&section=footer&color=0:3B82F6,50:1D4ED8,100:0F172A&animation=fadeIn" width="100%"/>
 
 </div>
