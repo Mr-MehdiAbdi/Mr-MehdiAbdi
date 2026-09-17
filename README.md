@@ -1,21 +1,21 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MEHDI%20ABDI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20JavaScript&descAlignY=62&descSize=17&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=MEHDI%20ABDI&fontSize=58&fontColor=ffffff&fontAlignY=38&desc=Frontend%20Developer%20%7C%20React%20%7C%20Next.js%20%7C%20JavaScript&descAlignY=62&descSize=17&animation=fadeIn&color=0:0F172A,50:1D4ED8,100:3B82F6" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;UI%2FUX+Enthusiast;Turning+Design+Into+Code;Building+Modern+Web+Experiences" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;UI%2FUX+Enthusiast;Turning+Design+Into+Code;Building+Modern+Web+Experiences" />
 
 <br/><br/>
 
 <a href="https://github.com/Mr-MehdiAbdi">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </div>
@@ -30,13 +30,13 @@
 
 </div>
 
-I'm a **Frontend Developer** passionate about creating modern, responsive and interactive web experiences.
+I'm a **Frontend Developer** focused on building modern, responsive and interactive web experiences.
 
 I enjoy turning ideas and visual concepts into real products — combining **clean code, thoughtful UI and a strong focus on user experience**.
 
 My interests live at the intersection of:
 
-**Development × Design × User Experience**
+**Development · Design · User Experience**
 
 ---
 
@@ -75,13 +75,13 @@ My interests live at the intersection of:
 
 <br/>
 
-### Figma / Adobe XD
+### Figma · Adobe XD
 
 **Design**
 
 ↓
 
-### React / Next.js
+### React · Next.js
 
 **Development**
 
@@ -94,24 +94,18 @@ My interests live at the intersection of:
 <br/>
 
 <sub>
-I enjoy transforming visual ideas into clean, functional and interactive interfaces.
+Turning visual concepts into clean, functional and interactive interfaces.
 </sub>
 
 </div>
 
 ---
 
-<div align="center">
-
 ## 🚀 SELECTED PROJECTS
-
-</div>
-
-<br/>
 
 ### ⚛️ React Auth Login
 
-A modern authentication project focused on creating a clean and practical user interface.
+A modern authentication project focused on a clean and practical user interface.
 
 **React · JavaScript · CSS**
 
@@ -143,45 +137,9 @@ A lightweight and responsive interactive UI component.
 
 <a href="https://github.com/Mr-MehdiAbdi?tab=repositories">
 
-<img src="https://img.shields.io/badge/EXPLORE_ALL_PROJECTS-6366F1?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/EXPLORE_MY_REPOSITORIES-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-## 📈 GITHUB ACTIVITY
-
-<br/>
-
-<img
-src="https://github-readme-stats.vercel.app/api?username=Mr-MehdiAbdi&show_icons=true&hide_border=true&bg_color=00000000&title_color=6366F1&icon_color=6366F1&text_color=64748B&rank_icon=github&include_all_commits=true"
-height="180"
-/>
-
-&nbsp;&nbsp;&nbsp;
-
-<img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-MehdiAbdi&layout=compact&hide_border=true&bg_color=00000000&title_color=6366F1&text_color=64748B&langs_count=6"
-height="180"
-/>
-
-<br/><br/>
-
-<img
-src="https://streak-stats.demolab.com?user=Mr-MehdiAbdi&hide_border=true&background=00000000&ring=6366F1&fire=818CF8&currStreakLabel=6366F1&sideLabels=64748B&dates=94A3B8"
-height="180"
-/>
-
-<br/><br/>
-
-<img
-src="https://github-readme-activity-graph.vercel.app/graph?username=Mr-MehdiAbdi&bg_color=00000000&color=64748B&line=6366F1&point=818CF8&area=true&hide_border=true"
-width="95%"
-/>
 
 </div>
 
@@ -193,23 +151,13 @@ width="95%"
 
 <br/>
 
-**Building**  
-React & Next.js projects
+🔵 **Building** — React & Next.js projects
 
-<br/>
+🔵 **Exploring** — Modern UI / UX
 
-**Exploring**  
-Modern UI / UX
+🔵 **Improving** — Frontend architecture & clean code
 
-<br/>
-
-**Improving**  
-Frontend architecture & clean code
-
-<br/>
-
-**Learning**  
-New technologies and better ways to build
+🔵 **Learning** — New technologies and better ways to build
 
 </div>
 
@@ -238,13 +186,13 @@ New technologies and better ways to build
 <br/>
 
 <a href="https://github.com/Mr-MehdiAbdi">
-  <img src="https://img.shields.io/badge/GitHub-111827?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-0F172A?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 &nbsp;
 
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-4F46E5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <br/><br/>
@@ -253,6 +201,6 @@ New technologies and better ways to build
 
 <br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:6366F1,50:312E81,100:111827&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:3B82F6,50:1D4ED8,100:0F172A&animation=fadeIn" width="100%"/>
 
 </div>
