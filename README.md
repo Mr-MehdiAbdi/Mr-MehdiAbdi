@@ -1,108 +1,44 @@
 <div align="center">
 
-# 👋 Hey, I'm Mehdi Abdi
-
-### Frontend Developer · React · Next.js · JavaScript
-
-Building clean, responsive and interactive web experiences.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&section=header&text=Mehdi%20Abdi&fontSize=60&fontAlignY=35&desc=Frontend%20Developer%20%7C%20React%20%20%7C%20Next.js%20%20%7C%20JavaScript&descAlignY=58&animation=fadeIn" width="100%"/>
 
 <br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=Frontend+Developer;React+%7C+Next.js+%7C+JavaScript;UI%2FUX+Enthusiast;Turning+ideas+into+interfaces;Always+learning.+Always+building." />
+
+<br/><br/>
 
 <a href="https://github.com/Mr-MehdiAbdi">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+<img src="https://img.shields.io/github/followers/Mr-MehdiAbdi?style=for-the-badge&logo=github&label=Followers" />
 </a>
-<a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+
+<a href="https://github.com/Mr-MehdiAbdi?tab=repositories">
+<img src="https://img.shields.io/badge/Repositories-27-181717?style=for-the-badge&logo=github" />
 </a>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+## 👋 About Me
 
-I'm a **Frontend Developer** focused on creating modern, responsive and user-friendly web applications.
+```js
+const mehdi = {
+  role: "Frontend Developer",
 
-I enjoy turning ideas and designs into functional digital experiences while keeping the code **clean, maintainable and scalable**.
+  focus: [
+    "Modern Web Development",
+    "Responsive Interfaces",
+    "Clean & Maintainable Code",
+    "UI / UX"
+  ],
 
-I'm constantly learning, experimenting and improving my development skills.
+  technologies: {
+    frontend: ["JavaScript", "React", "Next.js"],
+    styling: ["HTML", "CSS", "Tailwind CSS"],
+    design: ["Figma", "Adobe XD"],
+    tools: ["Git", "GitHub", "VS Code"]
+  },
 
----
-
-## ⚡ Tech Stack
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,nextjs,html,css,tailwind" />
-</p>
-
-### 🎨 UI / UX
-
-<p>
-  <img src="https://skillicons.dev/icons?i=figma" />
-</p>
-
-**Figma · Adobe XD**
-
-### 🛠 Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,npm" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### ⚛️ React Authentication
-
-Authentication-focused React application with a clean and modern interface.
-
-**React · JavaScript · CSS**
-
-[View Repository →](https://github.com/Mr-MehdiAbdi/react-auth-login)
-
----
-
-### 🎴 React Clash Card Slider
-
-Interactive and responsive card slider built with React.
-
-**React · Vite · CSS**
-
-[View Repository →](https://github.com/Mr-MehdiAbdi/react-clash-card-slider)
-
----
-
-### ☰ Accordion Menu
-
-A clean and responsive interactive accordion component.
-
-**React · Vite · CSS**
-
-[View Repository →](https://github.com/Mr-MehdiAbdi/Accordion-Menu)
-
----
-
-## 📊 GitHub
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Mr-MehdiAbdi&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-MehdiAbdi&layout=compact&hide_border=true&theme=transparent" />
-
-</div>
-
----
-
-## 🎯 Currently
-
-```text
-Learning        →  Improving my Frontend skills
-Building        →  React & Next.js projects
-Exploring       →  UI / UX & modern web technologies
-Interested in   →  Clean code · Design · User experience
+  mindset: "Build. Learn. Improve. Repeat."
+};
